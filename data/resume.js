@@ -1,6 +1,6 @@
 module.exports = {
-  name: "Kaijun Chen",
-  intro: "I'm Kaijun, i gonna use Markdown here, but it's haven't been implemented yet.",
+  name: "Creator54",
+  intro: "Student learning dev.",
   contact: [
     {
       title: "Call",
@@ -8,16 +8,16 @@ module.exports = {
     },
     {
       title: "Mail",
-      content: "kaijun.cn@gmail.com"
+      content: "hi.creator54@gmail.com"
     },
     {
       title: "Web",
-      content: "http://kaijun.rocks",
-      url: "http://kaijun.rocks"
+      content: "posts some stuff",
+      url: "https://creator54.github.io"
     },
     {
       title: "Home",
-      content: "Fritz-Löffler-Straße. 12/A585, 01069, Dresden, Sachsen, Germany",
+      content: "INDIA",
     },
   ],
   social: [
